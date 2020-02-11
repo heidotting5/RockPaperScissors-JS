@@ -1,0 +1,32 @@
+.mainBody {
+	padding: 30px;
+}
+
+.Scores {
+	display: flex;
+	justify-content: center;
+}
+
+.Choices {
+	text-align: center;
+}
+
+.indvScores {
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.indvChoice {
+	margin: 10px;
+}
+
+span {
+	color: blue;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+button {
+	padding: 15px 20px;
+	background-color: 
+}
